@@ -11,7 +11,7 @@ Comment l'enseigne Superstore peut-elle améliorer durablement sa rentabilité s
 #### Fichiers de données
 
 **Rapport d'analyse** : [Consulter le rapport (PDF)](Analyse_Superstore_Ventes.pdf)  
-**Jeu de données** : [SuperStore_Orders.csv](SuperStore_Orders.csv)
+**Jeu de données** : [SuperStore_Orders.csv](SuperStore_Orders.csv) (données brutes utilisées pour l'analyse)
 
 #### Méthodologie
 
