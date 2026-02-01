@@ -1,19 +1,19 @@
 ## Projet d’analyse – Superstore 🛒
 
-#### Contexte
+### Contexte
 
 Ce projet porte sur l’analyse des ventes d’un magasin fictif situé aux États-Unis et vise à évaluer l’impact des remises, du mix produit et des catégories sur la rentabilité, à partir de données commerciales fictives.
 
-#### Problématique
+### Problématique
 
 Comment l'enseigne Superstore peut-elle améliorer durablement sa rentabilité sans dépendre d’une croissance des volumes, en agissant sur les remises, les clients et le mix produit ?
 
-#### Fichiers de données
+### Fichiers de données
 
 **Rapport d'analyse** : [Consulter le rapport (PDF)](Analyse_Superstore_Ventes.pdf)  
 **Jeu de données** : [SuperStore_Orders.csv](SuperStore_Orders.csv) (données brutes utilisées pour l'analyse)
 
-#### Méthodologie
+### Méthodologie
 
 - **Nettoyage** : standardisation des dates, catégories, segments et régions
 - **Analyse des ventes** : évolution temporelle, volumes et chiffre d’affaires
@@ -22,7 +22,7 @@ Comment l'enseigne Superstore peut-elle améliorer durablement sa rentabilité s
 - **Segmentation** : performance par segment client
 
 
-#### Résultats clés
+### Résultats clés
 
 - La politique de remise détruit la rentabilité : remises > 20% engendre des pertes systématiques
 - 15,7% des ventes sont réalisées avec des remises supérieures à 20% (volume significatif de transactions déficitaires)
@@ -38,14 +38,14 @@ Comment l'enseigne Superstore peut-elle améliorer durablement sa rentabilité s
     - Bookcase : ventes correctes (~115K) mais perte de −3,6K
     - Supplies : ventes plus faibles (~47K) mais profits négatif −1,1K
 
-#### Conclusion globale
+### Conclusion globale
 
 La rentabilité est pénalisée par une politique de remises excessives et un pilotage trop orienté volume. 
 Les ventes non rentables détruisent près de 35 % du profit potentiel, tandis que le chiffre d’affaires masque des clients et catégories destructeurs de valeur.
 La performance repose sur un nombre limité de clients clés et sur l’effet de masse des clients à potentiel, rendant le modèle fragile.
 Le principal levier de création de valeur réside désormais dans la discipline commerciale et la rentabilité, plutôt que dans la croissance des volumes.
 
-#### Recommandations stratégiques
+### Recommandations stratégiques
 
 **Objectif** : Récupérer une part significative du profit potentiel perdu (157 K$) en améliorant la discipline commerciale, la rentabilité des transactions et la création de valeur par client et par catégorie, sans dépendre d’une hausse des volumes.
 
