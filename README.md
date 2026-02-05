@@ -15,6 +15,8 @@ Comment l'enseigne Superstore peut-elle améliorer durablement sa rentabilité s
 
 ### Méthodologie
 
+Visualisation réalisation sur Tableau.
+
 - **Nettoyage** : standardisation des dates, catégories, segments et régions
 - **Analyse des ventes** : évolution temporelle, volumes et chiffre d’affaires
 - **Rentabilité** : analyse profit / perte par clients et sous-catégorie de produits
