@@ -1,4 +1,6 @@
-## Projet d’analyse – Superstore 🛒
+## Rentabilité Commerciale d'une enseigne commerciale – Superstore 🛒
+
+Audit de performance et optimisation des marges
 
 ### Contexte
 
@@ -15,7 +17,7 @@ Comment l'enseigne Superstore peut-elle améliorer durablement sa rentabilité s
 
 ### Méthodologie
 
-Visualisation réalisée sur Tableau.
+Analyse temporelle des ventes, segmentation clients, et création d'un outil décisionnel interactif sous Tableau.
 
 - **Nettoyage** : standardisation des dates, catégories, segments et régions
 - **Analyse des ventes** : évolution temporelle, volumes et chiffre d’affaires
@@ -25,6 +27,8 @@ Visualisation réalisée sur Tableau.
 
 
 ### Résultats clés
+
+La politique de remises supérieure à 20% détruisait systématiquement la marge nette, représentant un manque à gagner de 157 000 $.
 
 - La politique de remise détruit la rentabilité : remises > 20% engendre des pertes systématiques
 - 15,7% des ventes sont réalisées avec des remises supérieures à 20% (volume significatif de transactions déficitaires)
