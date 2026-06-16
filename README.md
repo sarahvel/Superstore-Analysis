@@ -4,7 +4,7 @@ Audit de performance et optimisation des marges
 
 ### Contexte
 
-Ce projet porte sur l’analyse des ventes d’un magasin fictif situé aux États-Unis et vise à évaluer l’impact des remises, du mix produit et des catégories de produits sur la rentabilité, à partir de données commerciales fictives.
+Ce projet porte sur l’analyse des ventes d’un magasin situé aux États-Unis et vise à évaluer l’impact des remises, du mix produit et des catégories de produits sur la rentabilité, à partir de données commerciales fictives.
 
 ### Problématique
 
