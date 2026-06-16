@@ -28,9 +28,9 @@ Analyse temporelle des ventes, segmentation clients, et création d'un outil dé
 
 ### Résultats clés
 
-La politique de remises supérieure à 20% détruisait systématiquement la marge nette, représentant un manque à gagner de 157 000 $.
+La politique de remises supérieure à 20% détruise systématiquement la marge nette, représentant un manque à gagner de 157 000 $.
 
-- La politique de remise détruit la rentabilité : remises > 20% engendre des pertes systématiques
+- La politique de remise détruit la rentabilité : les remises supérieures à 20% engendre des pertes systématiques
 - 15,7% des ventes sont réalisées avec des remises supérieures à 20% (volume significatif de transactions déficitaires)
 - Les ventes non rentables détruisent près de 35 % du profit potentiel :
     - Profit réel : 292K$
@@ -53,7 +53,7 @@ Le principal levier de création de valeur réside désormais dans la discipline
 
 ### Recommandations stratégiques
 
-**Objectif** : Récupérer une part significative du profit potentiel perdu (157 K$) en améliorant la discipline commerciale, la rentabilité des transactions et la création de valeur par client et par catégorie, sans dépendre d’une hausse des volumes.
+**Objectif** : Récupérer une part significative du profit potentiel perdu (157 K$) en optimisant la politique commerciale, la rentabilité des transactions et la création de valeur par client et par catégorie, sans dépendre d’une hausse des volumes.
 
 **1) Reprendre le contrôle de la politique de remises** (priorité)
 
